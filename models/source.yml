@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: movies_db
+    database: stock-data-392403
+    schema: movies_db
+    tables:
+      - name: Movies_DB
